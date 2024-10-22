@@ -6,3 +6,4 @@ code/backend/.env
 *.xml
 *.bin
 *.sqlite3
+*.pyc
