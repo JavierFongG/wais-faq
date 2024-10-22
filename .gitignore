@@ -1,0 +1,8 @@
+
+code/backend/.env
+*.ipynb
+*.pyc
+*.xml
+*.xml
+*.bin
+*.sqlite3
